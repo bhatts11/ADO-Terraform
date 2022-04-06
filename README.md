@@ -1,7 +1,7 @@
 # **Deploy Azure DevOps resources using Terraform.**
 ## This terraform code will help you deploy Azure DevOps resources with the help of Terraform:
 
-### **Assumptions in the architecture :**
+### **Assumptions in the deployment :**
 
 1. You have already created an ADO organization. The project will be deployed in an existing organization. 
 2. Your account has existing PAT with required permissions or you can create a new PAT.
